@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "603a78fdcbf31a5cc93437d2",
+    "name" : "Manish",
+    "occupation" : "Private Job",
+    "age" : 30,
+    "address" : "VPO-Rawta, Delhi"
+},
+{
+  "id" : "603a792acbf31a5cc93437d3",
+  "name" : "Kirti",
+  "occupation" : "Teacher",
+  "age" : 26,
+  "address" : "VPO-Rawta, Delhi"
+},
+{
+  "id" : "603a7945cbf31a5cc93437d4",
+  "name" : "Rajbala Phalswal",
+  "occupation" : "House Wife",
+  "age" : 54,
+  "address" : "VPO-Rawta, Delhi-110073"
+}
+]
